@@ -1,0 +1,13 @@
+D:\Tallulah\MW Proto Game CA\MW Proto Game CA\bin\Debug\MW Proto Game CA.exe.config
+D:\Tallulah\MW Proto Game CA\MW Proto Game CA\bin\Debug\MW Proto Game CA.exe
+D:\Tallulah\MW Proto Game CA\MW Proto Game CA\bin\Debug\MW Proto Game CA.pdb
+D:\Tallulah\MW Proto Game CA\MW Proto Game CA\obj\Debug\MW Proto Game CA.csproj.CoreCompileInputs.cache
+D:\Tallulah\MW Proto Game CA\MW Proto Game CA\obj\Debug\MW Proto Game CA.exe
+D:\Tallulah\MW Proto Game CA\MW Proto Game CA\obj\Debug\MW Proto Game CA.pdb
+D:\Tallulah\MW Proto Game CA\MW Proto Game CA\obj\Debug\MW Proto Game CA.csprojAssemblyReference.cache
+D:\Minesweeper BackUp 2\MW Proto Game CA\MW Proto Game CA\bin\Debug\MW Proto Game CA.exe.config
+D:\Minesweeper BackUp 2\MW Proto Game CA\MW Proto Game CA\bin\Debug\MW Proto Game CA.exe
+D:\Minesweeper BackUp 2\MW Proto Game CA\MW Proto Game CA\bin\Debug\MW Proto Game CA.pdb
+D:\Minesweeper BackUp 2\MW Proto Game CA\MW Proto Game CA\obj\Debug\MW Proto Game CA.csproj.CoreCompileInputs.cache
+D:\Minesweeper BackUp 2\MW Proto Game CA\MW Proto Game CA\obj\Debug\MW Proto Game CA.exe
+D:\Minesweeper BackUp 2\MW Proto Game CA\MW Proto Game CA\obj\Debug\MW Proto Game CA.pdb
